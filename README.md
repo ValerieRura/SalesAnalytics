@@ -15,9 +15,6 @@ The main goal of this dashboard is to provide the Sales Manager with a tool to c
 ## Project Goals
 The dashboard is intended to give the Sales Manager a powerful tool to understand and enhance sales strategies based on detailed, actionable data. By comparing current sales to historical data, the manager can identify trends, make informed decisions, and drive growth more effectively.
 
-## Setup and Installation
-Here, you will find instructions on how to access and set up the dashboard, including any necessary software or tools needed.
-
 ## Usage
 This section will guide you on how to navigate the dashboard, select different options, and interpret the data presented. It includes:
 - How to select timeframes for comparison.
